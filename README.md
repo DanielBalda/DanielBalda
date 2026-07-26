@@ -102,18 +102,6 @@ Main features:
 
 ---
 
-## 📊 GitHub Activity & Statistics
-
-<p align="center">
-  <img
-    src="./github-metrics.svg"
-    alt="Daniel's GitHub activity and statistics"
-    width="100%"
-  />
-</p>
-
----
-
 ## 🎯 Current Goals
 
 * Build more robust and scalable Playwright frameworks
