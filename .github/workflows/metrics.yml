@@ -44,4 +44,4 @@ jobs:
 
           # Calendario histórico
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 1
