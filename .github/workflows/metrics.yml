@@ -23,13 +23,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Reemplazar por tu usuario
           user: DanielBalda
 
-          # Archivo generado
           filename: github-metrics.svg
 
-          # Diseño general
           template: classic
           config_timezone: America/Argentina/Mendoza
 
