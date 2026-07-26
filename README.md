@@ -102,21 +102,13 @@ Main features:
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Activity & Statistics
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=DanielBalda&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Daniel's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBalda&layout=compact&hide_border=true&langs_count=8"
-    alt="Most used languages"
+    src="./github-metrics.svg"
+    alt="Daniel's GitHub activity and statistics"
+    width="100%"
   />
 </p>
 
